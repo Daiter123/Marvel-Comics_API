@@ -110,7 +110,7 @@ while True: #exit the while loop if user-input for one of the values is 'q' or '
         print("Status Code: " + str(json_status) + "; Invalid user inputs for one of the parameters.")
         print(menuTable)
  
-    elif json_status == 611:
+    elif json_status == 409:
         print(menuTable)
         print("Status Code: " + str(json_status) + "; Missing an entry for one of the parameters.")
         print(menuTable)
