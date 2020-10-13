@@ -1,4 +1,3 @@
-
 #imports
 import urllib.parse
 import requests
